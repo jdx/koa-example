@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "flow-bin": "^0.47.0",
+    "standard": "^10.0.2"
+  },
+  "dependencies": {
+    "koa": "^2.2.0"
+  }
+}
