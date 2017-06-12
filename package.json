@@ -1,4 +1,5 @@
 {
+  "version": "1.0.0",
   "devDependencies": {
     "flow-bin": "^0.47.0",
     "standard": "^10.0.2"
