@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": ">=10"
+    "node": "<0.8"
   },
   "devDependencies": {
     "flow-bin": "^0.47.0",
