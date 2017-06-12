@@ -1,0 +1,12 @@
+{
+  "environments": {
+    "production": {
+      "app": "dickeyxxx-node-example",
+      "branch": "master"
+    },
+    "staging": {
+      "app": "dickeyxxx-node-example-staging",
+      "branch": "staging"
+    }
+  }
+}
