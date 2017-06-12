@@ -1,7 +1,4 @@
 {
-  "engines": {
-    "node": "<0.8"
-  },
   "devDependencies": {
     "flow-bin": "^0.47.0",
     "standard": "^10.0.2"
